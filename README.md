@@ -1,7 +1,5 @@
-[![MasterHead](3959334.png (1920×1080))
 <h1 align="center">Hi 👋, I'm Joshua Paulraj</h1>
 <h3 align="center">Team Lead | Data Enthusiast | Analyze and Visualize Data</h3>
-(img align="right" alt="Coding" width="400" src="a-data-analyst-sits-at-work-in-front-of-a-computer-device-showing-statistics-and-graphs-in-front-of-him-flat-style-cartoon-illustration-free-vector.jpg (1920×1356)")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpsr1703&label=Profile%20views&color=0e75b6&style=flat" alt="jpsr1703" /> </p>
 
